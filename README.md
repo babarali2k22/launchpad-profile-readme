@@ -1,144 +1,89 @@
-<!-- 
-  <<< Author notes: Header of the course >>> 
-  Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
-  In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
-  Add your open source license, GitHub uses Creative Commons Attribution 4.0 International.
+<h1 align="center">Hi 👋, I'm Babar Ali</h1>
+<h3 align="center">Software Developer - Java</h3>
+
+<!-- <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> -->
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2401720/screenshots/4913912/media/d5b088cab1d113db4ac03f5e314cdbfd.jpg">
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=babarali2k22&label=Profile%20views&color=0e75b6&style=flat" alt="Babar-Ali" /> </p>
+
+<!-- <p align="left"> <a href="https://twitter.com/fazalharoon4" target="blank"><img src="https://img.shields.io/twitter/follow/babarali2k22?logo=twitter&style=for-the-badge" alt="babarali2k22" /></a> </p> -->
+
+- 🔭 I’m currently working as **Systems Developer**
+
+- 🔭 I’m currently working on **Spring Boot 3 · Microservices · Rest API · SOAP Integration · Angular · FinTech · Banking**
+
+- 🌱 I’m currently learning **Application Architecture · React JS · Angular · DevOps · Node JS · Software Design Pattern · Different Integration module**
+
+- 👨‍💻 All of my projects are available at [https://github.com/babarali2k22]
+
+- 💬 Ask me about **Java · SpringBoot · Rest API · SOAP · Integration · React Js · Angular · Security · JWT · Application Architecure · MyBatis · Hibernate · JPA · Database · Docker · K8s · CI/CD**
+
+- 💬 Ask me about **Technical Design Document (high and low Level) · Technical Flow Document · Traceability Matrix Document · Mockito Regression Testing**
+
+- 📫 How to reach me:  <a href="https://www.linkedin.com/in/babarali2k21/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" width="70"/>
+  </a> ·  ·  · **babar.ali@student.uibk.ac.at**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/babarali2k21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="babarali2k21" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/babarali2k21/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/babar-ali-384b2013a/" height="30" width="40" /></a>
+
+<h3 align="left">Languages and Tools:</h3>
+<img align="left" alt="mysql" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+<img align="left" alt="mysql" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+<img align="left" alt="java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" />
+<img align="left" alt="mysql" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+<img align="left" alt="spring" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" />
+<img align="left" alt="spring-boot" src="https://img.shields.io/badge/spring-boot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white" />
+</br>
+<p align="left" alt="spring-bean" />
+</br>
+<img align="left" alt="spring-security" src="https://img.shields.io/badge/spring-security-%236DB33F.svg?style=for-the-badge&logo=spring-security&logoColor=white" />
+<img align="left" alt="spring-bean" src="https://img.shields.io/badge/spring-bean-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" />
+<img align="left" alt="hibernate" src="https://img.shields.io/badge/hibernate-%231572B6.svg?style=for-the-badge&logo=hibernate&logoColor=white" />
+<img align="left" alt="mysql" src="https://img.shields.io/badge/angular-%2320232a.svg?style=for-the-badge&logo=angular&logoColor=%2361DAFB" />
+<img alt="mysql" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+
+<p align="left"> 
+  <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="25" height="25"/></code> 
+  <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="25" height="25"/></code> 
+  <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="25" height="25"/></code>
+  <code><img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/></code>
+  <code><img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Spring_Framework_Logo_2018.svg" alt="spring" width="auto" height="25"/></code>
+  <code><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="25" height="25"/></code> 
+  <code><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="25" height="25"/></code> 
+  <code><img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="25" height="25"/></code>
+  <code><img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/databases/mongodb.svg" title="Mongodb" alt="Mongodb" width="40" height="40"/></code>
+  <code><img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/databases/postgresql.svg" title="Postgresql" alt="Postgresql" width="40" height="40"/></code>
+  <code><img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg" title="graphql" alt="graphql" width="40" height="40"/></code>
+  <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="25" height="25"/></code>
+    </br>
+  <code><img height="25" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+  <code><img height="25" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+  <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="auto" height="25"/></code>
+  <code><img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg" alt="angular" width="auto" height="25"/></code>
+  <code><img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/text%20editors/vscode.svg" title="vscode" alt="vscode" width="40" height="40"/></code> 
+  <code><img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/ides/intellij.svg" title="intellij" alt="intellij" width="40" height="40"/></code>  
+  <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="25" height="25"/></code>
+  <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="25" height="25"/></code>
+  <code><img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/></code>
+  <code><img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Kubernetes_logo_without_workmark.svg" alt="react" width="auto" height="25"/></code>
+  <code><img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Docker_%28container_engine%29_logo.svg" alt="react" width="auto" height="25"/></code> 
+  <code><img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" title="Jira"  alt="Jira" width="40" height="40"/></code>
+</p>
+
+
+<!--<img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
+<img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/>
 -->
 
-# Launchpad: Profile README
+<!-- <img align="left" width="47%"  src="https://github-readme-stats.vercel.app/api?username=Babarali2k22&show_icons=true&theme=radical" />
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fazal-haroon&layout=compact" />
+ -->
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=Babarali2k22&theme=buefy)](https://github.com/ryo-ma/github-profile-trophy) -->
+<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Babarali2k22&theme=buefy)](https://git.io/streak-stats) -->
 
-_Say hello to your community._
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Babarali2k22&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Babar's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Babarali2k22&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 
-
-<!-- 
-  <<< Author notes: Start of the course >>> 
-  Include start button, a note about Actions minutes,
-  and tell the learner why they should take the course.
-  Each step should be wrapped in <details>/<summary>, with an `id` set.
-  The start <details> should have `open` as well.
-  Do not use quotes on the <details> tag attributes.
--->
-
-<details id=0 open>
-<summary><h2>Welcome</h2></summary>
-
-Say ‘Hello world’ with a profile README that lets you introduce yourself to the GitHub community. You decide what information to include in your profile README, so you have full control over how you present yourself on GitHub. This experience walks you through a quick tutorial to create your profile README.
-- **Who is this for**: New developers, new GitHub users, and students.
-- **What you'll learn**: How to create a public repository for use as a profile README.
-- **What you'll build**: We'll make a profile README file.
-- **Prerequisites**: None. This course is a great introduction for your first day on GitHub.
-- **How long**: This launchpad takes about 20 mins to complete.
-
-**About your profile README**
-
-You can share information about yourself with the community on GitHub.com by creating a profile README. GitHub shows your profile README at the top of your profile page. Here are some examples of information that visitors may find interesting, fun, or useful in your profile README.
-- An "About me" section that describes your work and interests
-- Contributions you're proud of, and context about those contributions
-- Guidance for getting help in communities where you're involved
-
-Here’s an example of a Campus Expert profile README
-<img width="1367" alt="Screen Shot 2023-03-13 at 2 55 41 PM" src="https://user-images.githubusercontent.com/107881423/224805660-26f7272f-6df1-42c0-b4c4-f3b2d790dd65.png">
-
-
-
-
-
-
-## Start Here
-
-1. **What is a profile README?**: A _[profile README](https://docs.github.com/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme)_ is essentially an "About me" section on your GitHub profile where you can share information about yourself with the community on GitHub.com. GitHub shows your profile README at the top of your profile page. For more information, see "[Managing your profile README](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme)".
-
-2. **What is a repository?**: A _[repository](https://docs.github.com/get-started/quickstart/github-glossary#repository)_ is a project containing files and folders. A repository tracks versions of files and folders. For more information, see "[About repositories](https://docs.github.com/en/repositories/creating-and-managing-repositories/about-repositories)" from GitHub Docs.
-<br>:tv: [Video: Exploring a repository](https://www.youtube.com/watch?v=R8OAwrcMlRw)
-3. **Course tips:**
-GitHub will display your profile README on your profile page if all of the following are true:
- - You've created a repository with a name that matches your GitHub username.
- - The repository is public.
- - The repository contains a file named README.md in its root.
- - The README.md file contains any content.
-
-
-</details>
-
-<!-- 
-  <<< Author notes: Step 1 >>> 
-  Choose 3-5 steps for your course.
-  The first step is always the hardest, so pick something easy!
-  Link to docs.github.com for further explanations.
-  Encourage users to open new tabs for steps!
--->
-
-<details id=1>
-<summary><h2>Adding a profile README</h2></summary>
-
-1. Open an additional tab in GitHub and follow the instructions below.
-
-2. In the upper-right corner of any page, click the ‘+’ and use the  drop-down menu, and select New repository.
-<img width="265" alt="Screen Shot 2023-03-13 at 3 27 56 PM" src="https://user-images.githubusercontent.com/107881423/224812150-895e1373-03c1-4208-83be-6f671eb41496.png">
-
-3. Under "Repository name", type a repository name that matches your GitHub username. For example, if your username is "octocat", the repository name must be "octocat".
-<img width="662" alt="Screen Shot 2023-03-13 at 3 28 06 PM" src="https://user-images.githubusercontent.com/107881423/224812371-3870872e-df11-4da8-8bbe-9d9ae3d57c3f.png">
-
-4. Optionally, add a description of your repository. For example, "My personal repository."
-<img width="643" alt="Screen Shot 2023-03-13 at 3 28 13 PM" src="https://user-images.githubusercontent.com/107881423/224812472-7c8da3b3-48fd-4d46-8ac6-dcadcef09d67.png">
-
-5. Select Public.
-<img width="651" alt="Screen Shot 2023-03-13 at 3 28 20 PM" src="https://user-images.githubusercontent.com/107881423/224812820-b40fd7a7-6802-4777-bf43-08c4b306efa9.png">
-
-6. Select Initialize this repository with a README.
-<img width="642" alt="Screen Shot 2023-03-13 at 3 28 28 PM" src="https://user-images.githubusercontent.com/107881423/224812890-790983ba-53d5-4eab-ba99-c46fb980b714.png">
-
-7. Click Create repository.
-<img width="646" alt="Screen Shot 2023-03-13 at 3 28 34 PM" src="https://user-images.githubusercontent.com/107881423/224813018-b15edbee-2765-414a-a14c-eacb2a85d7b7.png">
-
-8. Above the right sidebar, click Edit README.
-<img width="646" alt="Screen Shot 2023-03-13 at 3 28 41 PM" src="https://user-images.githubusercontent.com/107881423/224813085-b9f3df65-65dd-4d20-9298-1231f5b07e3b.png">
-
-9. The generated README file is pre-populated with a template to give you some inspiration for your profile README.
-<img width="659" alt="Screen Shot 2023-03-13 at 3 28 49 PM" src="https://user-images.githubusercontent.com/107881423/224813159-539f5b7d-ce1b-448e-bf92-f0c6d40f710f.png">
-
-To add a photo, simply drag the file from your computer into the text edit box and it will be uploaded in that section. For a summary of all the available emojis and their codes, see "Emoji cheat sheet."
-
-10. When you've made your customizations and want to save your work, select Commit Changes.
-<img width="353" alt="Screen Shot 2023-03-13 at 3 38 58 PM" src="https://user-images.githubusercontent.com/107881423/224814477-ccef9444-5e98-4aac-8f78-8960b678abf5.png">
-
-
-_You did it! :tada:_
-
-
-
-
-<!-- 
-  <<< Author notes: Finish >>> 
-  Review what we learned, ask for feedback, provide next steps.
--->
-
-<details id=X>
-<summary><h2>Finish</h2></summary>
-
-_Congratulations, you've completed this launchpad and joined the world of developers!_
-
-<img src=https://octodex.github.com/images/collabocats.jpg alt=celebrate width=300 align=right>
-
-
-### What's next?
-
-
-Check out these resources to learn more or get involved:
-- Check out the [Student Developer Pack](https://education.github.com/pack) for more resources and exclusive partner offers.
-- Explore more Experiences to help you make the most of your GitHub account.
-- [Read the GitHub Getting Started docs](https://docs.github.com/en/get-started).
-
-
-</details>
-
-<!--
-  <<< Author notes: Footer >>>
-  Add a link to get support, GitHub status page, code of conduct, license link.
--->
-
----
-
-Get help: [Post in our discussion board](https://github.com/skills/.github/discussions) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
-
-&copy; 2023 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [CC-BY-4.0 License](https://creativecommons.org/licenses/by/4.0/legalcode)
